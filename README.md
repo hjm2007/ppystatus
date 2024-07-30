@@ -2,7 +2,7 @@
 
 该仓库用于收集PPY作品存活状况，若想获取相关信息，请访问：
 
-===========
+[状态列表](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/hjm2007/ppystatus/main/status.xlsx)
 
 本数据不定期更新，若发现本人长时间未更新，其它热心人士可Fork本仓科进行完善。
 
